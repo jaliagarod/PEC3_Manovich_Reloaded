@@ -78,3 +78,5 @@ Ambos casos nos recuerdan que lo digital cobra sentido cuando genera experiencia
 **Licencia:** Contenido desarrollado bajo licencia **CC BY-SA 4.0**.
 
 ---
+
+Este repositorio ha sido creado desde cero siguiendo la estructura de la plantilla propuesta, sin realizar fork directo.
